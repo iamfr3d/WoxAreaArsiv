@@ -1,0 +1,6 @@
+bedesufa@ema-sofia.eu
+
+i3FileIntegrityChecker::_check_file_md5
+"PointBlank.exe"+9E8D1F
+
+i3FileIntegrityCheckSystem::Create
